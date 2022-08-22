@@ -1,41 +1,86 @@
 # 实验室预约管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**实验室** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 实验室预约管理系统拥有三个角色
 
 - 管理员：查看实验室、公告管理、教师管理、学生管理、实验室排期表、新增实验室、预约管理等
 - 教师：根据条件查询个人预约记录、添加管理课程、预约（个人或者课程）实验室
 - 学生：查看预约信息、个人预约实验室、实验室预约详情等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：Spring+Hibernate
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：Eclipse
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091331303.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2 学生模块
 
-#### 参与贡献
+![学生-实验室预约详情i](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091331435.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![学生-实验室预约详情i](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091331171.jpg)
+
+![学生-个人预约实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332867.jpg)
+
+![学生-实验室预约详情i](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332497.jpg)
+
+### 4.3 教师模块
+
+![教师-选择实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332863.jpg)
+
+![教师-预约课堂实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332207.jpg)
+
+![教师-查看个人预约实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332664.jpg)
+
+![教师-根据条件查询预约记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091332226.jpg)
+
+![教师-新增课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333097.jpg)
+
+![教师-课程列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333183.jpg)
+
+### 4.4管理员 模块
+
+![教师-课程列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333573.jpg)
+
+![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333732.jpg)
+
+![管理员-新增实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333833.jpg)
+
+![管理员-查看实验室](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333314.jpg)
+
+![管理员-实验室排期表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333776.jpg)
+
+![管理员-预约管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333289.jpg)
+
+![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333579.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ： **实验室**，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
